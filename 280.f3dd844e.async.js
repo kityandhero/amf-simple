@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexample_antd_management_fast_framework=self.webpackChunkexample_antd_management_fast_framework||[]).push([[280],{13280:function(f,n,t){t.r(n),t.d(n,{default:function(){return u}});var s=t(52983),a=t(71205),e=t(97458);function u(){var m=(0,a.useOutletContext)();return(0,e.jsx)(a.Outlet,{context:m})}}}]);
